@@ -10,22 +10,27 @@
 <a href="https://linkedin.com/in/gökhangüneş" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
+<a href="https://www.hackerrank.com/gokhan_gns_" target="_blank">
+<img width="197.923mm"  src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" class="custom-logo"style="margin-bottom: 5px alt="HackerRank Logo" >
+</a>  
 </div>  
   
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=gokhangns&&style=flat-square" align="center" />
-</div>  
-  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/gokhangunes" target="_blank" style="display: inline-block;">
+<a href="https://www.buymeacoffee.com/gokhangunes" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>  
-<br/>  
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
+            </a>
+« »
+<img src="https://komarev.com/ghpvc/?username=gokhangns&&style=flat-square" align="center" />
+            </div>  
+           
+<br/>
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhangns&layout=compact&theme=tokyolight"  />
+</a>
+</div>
 
 ### 
 <div align="center">
