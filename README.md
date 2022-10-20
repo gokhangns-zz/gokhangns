@@ -1,22 +1,17 @@
 ### <div align="center"> <h2>👋 Hi, I’m Gökhan </h2>
+### <h3 align="center"> 💻 Frontend Developer & 💚 Innovation <h3/>
+
 - 👀 I’m interested in innovation, engineering, AI, machine learning, deep learning and data science.
 - 🌱 I’m currently learning data science, AI and Frontend 
 - 💞️ I’m looking to collaborate on innovation, data and mechanical engineering projects.
 - 📫 How to reach me gokhan_gns_@hotmail.com
 </div>  
   
-
-<div align="center">
-<a href="https://linkedin.com/in/gökhangüneş" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
-<a href="https://www.hackerrank.com/gokhan_gns_" target="_blank">
-<img width="197.923mm"  src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" class="custom-logo"style="margin-bottom: 5px alt="HackerRank Logo" >
-</a>  
-</div>  
   
 <div align="center">
+<a href="https://linkedin.com/in/gökhangüneş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serkancelik7" height="30" width="40" /></a> « »
+<a href="https://www.hackerrank.com/gokhan_gns_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="her007" height="30" width="40" /></a> « »
+
 <a href="https://www.buymeacoffee.com/gokhangunes" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
