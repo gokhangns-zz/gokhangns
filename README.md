@@ -1,7 +1,8 @@
 ### <div align="center"> <h2>👋 Hi, I’m Gökhan </h2>
 ### <h3 align="center"> 💻 Frontend Developer & 💚 Innovation <h3/>
 
-- 👀 I’m interested in innovation, engineering, AI, machine learning, deep learning and data science.
+- 💻 My new project : <a href="https://linktr.ee/hellochatwebapp" target="blank"><img align="center" src="https://github.com/gokhangns/Hello-Chat-App-/blob/master/Coming%20Soon/Group%2036.png" alt="" height="35" /></a>
+ - 👀 I’m interested in innovation, engineering, AI, machine learning, deep learning and data science.
 - 🌱 I’m currently learning data science, AI and Frontend 
 - 💞️ I’m looking to collaborate on innovation, data and mechanical engineering projects.
 - 📫 How to reach me gokhan_gns_@hotmail.com
