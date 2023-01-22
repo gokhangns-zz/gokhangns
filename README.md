@@ -1,12 +1,11 @@
 ### <div align="center"> <h2>👋 Hi, I’m Gökhan </h2>
 ### <h3 align="center"> 💻 Frontend Developer & 💚 Innovation <h3/>
-
+ 
  - [💻 My New Project : Hello Chat App](https://www.linkedin.com/company/hello-chat-app/)
  - 👀 I’m interested in innovation, engineering, AI, machine learning, deep learning and data science.
  - 🌱 I’m currently learning data science, AI and Frontend 
  - 💞️ I’m looking to collaborate on innovation, data and mechanical engineering projects.
- - 📫 How to reach me gokhan_gns_@hotmail.com
-</div>  
+ - 📫 How to reach me gokhan_gns_@hotmail.com 
   
   
 <div align="center">
@@ -22,13 +21,11 @@
             </div>  
            
 <br/>
-<div align="center"> 
+  <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhangns&layout=compact&theme=tokyolight"  />
 </a>
 </div>
-
-### 
 <div align="center">
 <h2> 🛠️ Languages&Tools </h2>
 </div>
@@ -50,7 +47,9 @@
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 
 </div>  
-
 <br />
-
-
+  <div align="center">
+  <h2>My Contribution Graph Eaten By The Snake 🐍 in 2022  </h2>
+  <img src="https://github.com/gokhangns/gokhangns/blob/output/github-contribution-grid-snake.gif"  />
+ </div>
+ 
