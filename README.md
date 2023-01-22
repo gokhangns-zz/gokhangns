@@ -49,7 +49,7 @@
 </div>  
 <br />
   <div align="center">
-  <h2>My Contribution Graph Eaten By The Snake 🐍 in 2022  </h2>
+  <h2>My Contribution Graph Eaten By The Snake 🐍 </h2>
   <img src="https://github.com/gokhangns/gokhangns/blob/output/github-contribution-grid-snake.gif"  />
  </div>
  
