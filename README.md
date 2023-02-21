@@ -4,8 +4,7 @@
  - [💻 My New Project : Hello Chat App](https://www.linkedin.com/company/hello-chat-app/)
  - 👀 I’m interested in innovation, engineering, AI, machine learning, deep learning and data science.
  - 🌱 I’m currently learning data science, AI and Frontend 
- - 💞️ I’m looking to collaborate on innovation, data and mechanical engineering projects.
- - 📫 How to reach me gokhan_gns_@hotmail.com 
+ - 💞️ I’m looking to collaborate on innovation, data and mechanical engineering projects. 
   
   
 <div align="center">
